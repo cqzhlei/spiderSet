@@ -1,16 +1,271 @@
-[INFO  - 2017-12-14T04:29:11.520Z] GhostDriver - Main - running on port 57934
-[INFO  - 2017-12-14T04:29:12.037Z] Session [55a76510-e087-11e7-a1a9-d32577ea075c] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":false,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
-[INFO  - 2017-12-14T04:29:12.037Z] Session [55a76510-e087-11e7-a1a9-d32577ea075c] - page.customHeaders:  - {}
-[INFO  - 2017-12-14T04:29:12.037Z] Session [55a76510-e087-11e7-a1a9-d32577ea075c] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
-[INFO  - 2017-12-14T04:29:12.037Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 55a76510-e087-11e7-a1a9-d32577ea075c
-[ERROR - 2017-12-14T04:29:13.572Z] Session [55a76510-e087-11e7-a1a9-d32577ea075c] - page.onError - msg: ReferenceError: Can't find variable: newsPageNo
+[INFO  - 2017-12-19T04:22:24.279Z] GhostDriver - Main - running on port 58925
+[INFO  - 2017-12-19T04:22:24.810Z] Session [36fe3c60-e474-11e7-8bdf-4589805fa85a] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":false,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-12-19T04:22:24.810Z] Session [36fe3c60-e474-11e7-8bdf-4589805fa85a] - page.customHeaders:  - {}
+[INFO  - 2017-12-19T04:22:24.810Z] Session [36fe3c60-e474-11e7-8bdf-4589805fa85a] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-12-19T04:22:24.810Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 36fe3c60-e474-11e7-8bdf-4589805fa85a
+[INFO  - 2017-12-19T04:27:22.751Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-12-19T04:32:22.740Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-12-19T04:37:22.731Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+8295417:2)
+  l (https://www.pinganwj.com/resources/js/jquery-1.8.3.min.js?resourceVersion=1513598295417:2)
+  fireWith (https://www.pinganwj.com/resources/js/jquery-1.8.3.min.js?resourceVersion=1513598295417:2)
+  ready (https://www.pinganwj.com/resources/js/jquery-1.8.3.min.js?resourceVersion=1513598295417:2)
+  A (https://www.pinganwj.com/resources/js/jquery-1.8.3.min.js?resourceVersion=1513598295417:2)
 
   phantomjs://platform/console++.js:263 in error
-[ERROR - 2017-12-14T04:29:13.572Z] Session [55a76510-e087-11e7-a1a9-d32577ea075c] - page.onError - stack:
-  (anonymous function) (https://www.pinganwj.com/resources/js/common/relatedNews.js?resourceVersion=1512061352218:2)
-  l (https://www.pinganwj.com/resources/js/jquery-1.8.3.min.js?resourceVersion=1512061352218:2)
-  fireWith (https://www.pinganwj.com/resources/js/jquery-1.8.3.min.js?resourceVersion=1512061352218:2)
-  ready (https://www.pinganwj.com/resources/js/jquery-1.8.3.min.js?resourceVersion=1512061352218:2)
-  A (https://www.pinganwj.com/resources/js/jquery-1.8.3.min.js?resourceVersion=1512061352218:2)
+[ERROR - 2017-12-19T04:23:07.226Z] Session [36fe3c60-e474-11e7-8bdf-4589805fa85a] - page.onError - msg: ReferenceError: Can't find variable: newsPageNo
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-12-19T04:23:07.226Z] Session [36fe3c60-e474-11e7-8bdf-4589805fa85a] - page.onError - stack:
+  (anonymous function) (https://www.pinganwj.com/resources/js/common/relatedNews.js?resourceVersion=1513598390590:2)
+  l (https://www.pinganwj.com/resources/js/jquery-1.8.3.min.js?resourceVersion=1513598390590:2)
+  fireWith (https://www.pinganwj.com/resources/js/jquery-1.8.3.min.js?resourceVersion=1513598390590:2)
+  ready (https://www.pinganwj.com/resources/js/jquery-1.8.3.min.js?resourceVersion=1513598390590:2)
+  A (https://www.pinganwj.com/resources/js/jquery-1.8.3.min.js?resourceVersion=1513598390590:2)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-12-19T04:23:54.317Z] Session [36fe3c60-e474-11e7-8bdf-4589805fa85a] - page.onError - msg: ReferenceError: Can't find variable: newsPageNo
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-12-19T04:23:54.317Z] Session [36fe3c60-e474-11e7-8bdf-4589805fa85a] - page.onError - stack:
+  (anonymous function) (https://www.pinganwj.com/resources/js/common/relatedNews.js?resourceVersion=1513598390590:2)
+  l (https://www.pinganwj.com/resources/js/jquery-1.8.3.min.js?resourceVersion=1513598390590:2)
+  fireWith (https://www.pinganwj.com/resources/js/jquery-1.8.3.min.js?resourceVersion=1513598390590:2)
+  ready (https://www.pinganwj.com/resources/js/jquery-1.8.3.min.js?resourceVersion=1513598390590:2)
+  A (https://www.pinganwj.com/resources/js/jquery-1.8.3.min.js?resourceVersion=1513598390590:2)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-12-19T04:24:42.802Z] Session [36fe3c60-e474-11e7-8bdf-4589805fa85a] - page.onError - msg: ReferenceError: Can't find variable: newsPageNo
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-12-19T04:24:42.802Z] Session [36fe3c60-e474-11e7-8bdf-4589805fa85a] - page.onError - stack:
+  (anonymous function) (https://www.pinganwj.com/resources/js/common/relatedNews.js?resourceVersion=1513598390590:2)
+  l (https://www.pinganwj.com/resources/js/jquery-1.8.3.min.js?resourceVersion=1513598390590:2)
+  fireWith (https://www.pinganwj.com/resources/js/jquery-1.8.3.min.js?resourceVersion=1513598390590:2)
+  ready (https://www.pinganwj.com/resources/js/jquery-1.8.3.min.js?resourceVersion=1513598390590:2)
+  A (https://www.pinganwj.com/resources/js/jquery-1.8.3.min.js?resourceVersion=1513598390590:2)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-12-19T04:25:21.503Z] Session [36fe3c60-e474-11e7-8bdf-4589805fa85a] - page.onError - msg: ReferenceError: Can't find variable: newsPageNo
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-12-19T04:25:21.503Z] Session [36fe3c60-e474-11e7-8bdf-4589805fa85a] - page.onError - stack:
+  (anonymous function) (https://www.pinganwj.com/resources/js/common/relatedNews.js?resourceVersion=1513598390590:2)
+  l (https://www.pinganwj.com/resources/js/jquery-1.8.3.min.js?resourceVersion=1513598390590:2)
+  fireWith (https://www.pinganwj.com/resources/js/jquery-1.8.3.min.js?resourceVersion=1513598390590:2)
+  ready (https://www.pinganwj.com/resources/js/jquery-1.8.3.min.js?resourceVersion=1513598390590:2)
+  A (https://www.pinganwj.com/resources/js/jquery-1.8.3.min.js?resourceVersion=1513598390590:2)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-12-19T04:26:00.948Z] Session [36fe3c60-e474-11e7-8bdf-4589805fa85a] - page.onError - msg: ReferenceError: Can't find variable: newsPageNo
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-12-19T04:26:00.948Z] Session [36fe3c60-e474-11e7-8bdf-4589805fa85a] - page.onError - stack:
+  (anonymous function) (https://www.pinganwj.com/resources/js/common/relatedNews.js?resourceVersion=1513598390590:2)
+  l (https://www.pinganwj.com/resources/js/jquery-1.8.3.min.js?resourceVersion=1513598390590:2)
+  fireWith (https://www.pinganwj.com/resources/js/jquery-1.8.3.min.js?resourceVersion=1513598390590:2)
+  ready (https://www.pinganwj.com/resources/js/jquery-1.8.3.min.js?resourceVersion=1513598390590:2)
+  A (https://www.pinganwj.com/resources/js/jquery-1.8.3.min.js?resourceVersion=1513598390590:2)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-12-19T04:26:45.944Z] Session [36fe3c60-e474-11e7-8bdf-4589805fa85a] - page.onError - msg: ReferenceError: Can't find variable: newsPageNo
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-12-19T04:26:45.944Z] Session [36fe3c60-e474-11e7-8bdf-4589805fa85a] - page.onError - stack:
+  (anonymous function) (https://www.pinganwj.com/resources/js/common/relatedNews.js?resourceVersion=1513598390590:2)
+  l (https://www.pinganwj.com/resources/js/jquery-1.8.3.min.js?resourceVersion=1513598390590:2)
+  fireWith (https://www.pinganwj.com/resources/js/jquery-1.8.3.min.js?resourceVersion=1513598390590:2)
+  ready (https://www.pinganwj.com/resources/js/jquery-1.8.3.min.js?resourceVersion=1513598390590:2)
+  A (https://www.pinganwj.com/resources/js/jquery-1.8.3.min.js?resourceVersion=1513598390590:2)
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2017-12-19T04:27:24.272Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2017-12-19T04:27:29.750Z] Session [36fe3c60-e474-11e7-8bdf-4589805fa85a] - page.onError - msg: ReferenceError: Can't find variable: newsPageNo
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-12-19T04:27:29.750Z] Session [36fe3c60-e474-11e7-8bdf-4589805fa85a] - page.onError - stack:
+  (anonymous function) (https://www.pinganwj.com/resources/js/common/relatedNews.js?resourceVersion=1513598390590:2)
+  l (https://www.pinganwj.com/resources/js/jquery-1.8.3.min.js?resourceVersion=1513598390590:2)
+  fireWith (https://www.pinganwj.com/resources/js/jquery-1.8.3.min.js?resourceVersion=1513598390590:2)
+  ready (https://www.pinganwj.com/resources/js/jquery-1.8.3.min.js?resourceVersion=1513598390590:2)
+  A (https://www.pinganwj.com/resources/js/jquery-1.8.3.min.js?resourceVersion=1513598390590:2)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-12-19T04:27:59.880Z] Session [36fe3c60-e474-11e7-8bdf-4589805fa85a] - page.onError - msg: ReferenceError: Can't find variable: newsPageNo
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-12-19T04:27:59.881Z] Session [36fe3c60-e474-11e7-8bdf-4589805fa85a] - page.onError - stack:
+  (anonymous function) (https://www.pinganwj.com/resources/js/common/relatedNews.js?resourceVersion=1513598295417:2)
+  l (https://www.pinganwj.com/resources/js/jquery-1.8.3.min.js?resourceVersion=1513598295417:2)
+  fireWith (https://www.pinganwj.com/resources/js/jquery-1.8.3.min.js?resourceVersion=1513598295417:2)
+  ready (https://www.pinganwj.com/resources/js/jquery-1.8.3.min.js?resourceVersion=1513598295417:2)
+  A (https://www.pinganwj.com/resources/js/jquery-1.8.3.min.js?resourceVersion=1513598295417:2)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-12-19T04:28:40.817Z] Session [36fe3c60-e474-11e7-8bdf-4589805fa85a] - page.onError - msg: ReferenceError: Can't find variable: newsPageNo
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-12-19T04:28:40.817Z] Session [36fe3c60-e474-11e7-8bdf-4589805fa85a] - page.onError - stack:
+  (anonymous function) (https://www.pinganwj.com/resources/js/common/relatedNews.js?resourceVersion=1513598390590:2)
+  l (https://www.pinganwj.com/resources/js/jquery-1.8.3.min.js?resourceVersion=1513598390590:2)
+  fireWith (https://www.pinganwj.com/resources/js/jquery-1.8.3.min.js?resourceVersion=1513598390590:2)
+  ready (https://www.pinganwj.com/resources/js/jquery-1.8.3.min.js?resourceVersion=1513598390590:2)
+  A (https://www.pinganwj.com/resources/js/jquery-1.8.3.min.js?resourceVersion=1513598390590:2)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-12-19T04:29:21.004Z] Session [36fe3c60-e474-11e7-8bdf-4589805fa85a] - page.onError - msg: ReferenceError: Can't find variable: newsPageNo
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-12-19T04:29:21.005Z] Session [36fe3c60-e474-11e7-8bdf-4589805fa85a] - page.onError - stack:
+  (anonymous function) (https://www.pinganwj.com/resources/js/common/relatedNews.js?resourceVersion=1513598390590:2)
+  l (https://www.pinganwj.com/resources/js/jquery-1.8.3.min.js?resourceVersion=1513598390590:2)
+  fireWith (https://www.pinganwj.com/resources/js/jquery-1.8.3.min.js?resourceVersion=1513598390590:2)
+  ready (https://www.pinganwj.com/resources/js/jquery-1.8.3.min.js?resourceVersion=1513598390590:2)
+  A (https://www.pinganwj.com/resources/js/jquery-1.8.3.min.js?resourceVersion=1513598390590:2)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-12-19T04:30:04.528Z] Session [36fe3c60-e474-11e7-8bdf-4589805fa85a] - page.onError - msg: ReferenceError: Can't find variable: newsPageNo
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-12-19T04:30:04.529Z] Session [36fe3c60-e474-11e7-8bdf-4589805fa85a] - page.onError - stack:
+  (anonymous function) (https://www.pinganwj.com/resources/js/common/relatedNews.js?resourceVersion=1513598295417:2)
+  l (https://www.pinganwj.com/resources/js/jquery-1.8.3.min.js?resourceVersion=1513598295417:2)
+  fireWith (https://www.pinganwj.com/resources/js/jquery-1.8.3.min.js?resourceVersion=1513598295417:2)
+  ready (https://www.pinganwj.com/resources/js/jquery-1.8.3.min.js?resourceVersion=1513598295417:2)
+  A (https://www.pinganwj.com/resources/js/jquery-1.8.3.min.js?resourceVersion=1513598295417:2)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-12-19T04:30:52.205Z] Session [36fe3c60-e474-11e7-8bdf-4589805fa85a] - page.onError - msg: ReferenceError: Can't find variable: newsPageNo
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-12-19T04:30:52.205Z] Session [36fe3c60-e474-11e7-8bdf-4589805fa85a] - page.onError - stack:
+  (anonymous function) (https://www.pinganwj.com/resources/js/common/relatedNews.js?resourceVersion=1513598295417:2)
+  l (https://www.pinganwj.com/resources/js/jquery-1.8.3.min.js?resourceVersion=1513598295417:2)
+  fireWith (https://www.pinganwj.com/resources/js/jquery-1.8.3.min.js?resourceVersion=1513598295417:2)
+  ready (https://www.pinganwj.com/resources/js/jquery-1.8.3.min.js?resourceVersion=1513598295417:2)
+  A (https://www.pinganwj.com/resources/js/jquery-1.8.3.min.js?resourceVersion=1513598295417:2)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-12-19T04:31:36.807Z] Session [36fe3c60-e474-11e7-8bdf-4589805fa85a] - page.onError - msg: ReferenceError: Can't find variable: newsPageNo
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-12-19T04:31:36.807Z] Session [36fe3c60-e474-11e7-8bdf-4589805fa85a] - page.onError - stack:
+  (anonymous function) (https://www.pinganwj.com/resources/js/common/relatedNews.js?resourceVersion=1513598295417:2)
+  l (https://www.pinganwj.com/resources/js/jquery-1.8.3.min.js?resourceVersion=1513598295417:2)
+  fireWith (https://www.pinganwj.com/resources/js/jquery-1.8.3.min.js?resourceVersion=1513598295417:2)
+  ready (https://www.pinganwj.com/resources/js/jquery-1.8.3.min.js?resourceVersion=1513598295417:2)
+  A (https://www.pinganwj.com/resources/js/jquery-1.8.3.min.js?resourceVersion=1513598295417:2)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-12-19T04:32:19.599Z] Session [36fe3c60-e474-11e7-8bdf-4589805fa85a] - page.onError - msg: ReferenceError: Can't find variable: newsPageNo
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-12-19T04:32:19.599Z] Session [36fe3c60-e474-11e7-8bdf-4589805fa85a] - page.onError - stack:
+  (anonymous function) (https://www.pinganwj.com/resources/js/common/relatedNews.js?resourceVersion=1513598390590:2)
+  l (https://www.pinganwj.com/resources/js/jquery-1.8.3.min.js?resourceVersion=1513598390590:2)
+  fireWith (https://www.pinganwj.com/resources/js/jquery-1.8.3.min.js?resourceVersion=1513598390590:2)
+  ready (https://www.pinganwj.com/resources/js/jquery-1.8.3.min.js?resourceVersion=1513598390590:2)
+  A (https://www.pinganwj.com/resources/js/jquery-1.8.3.min.js?resourceVersion=1513598390590:2)
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2017-12-19T04:32:24.261Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2017-12-19T04:33:05.870Z] Session [36fe3c60-e474-11e7-8bdf-4589805fa85a] - page.onError - msg: ReferenceError: Can't find variable: newsPageNo
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-12-19T04:33:05.870Z] Session [36fe3c60-e474-11e7-8bdf-4589805fa85a] - page.onError - stack:
+  (anonymous function) (https://www.pinganwj.com/resources/js/common/relatedNews.js?resourceVersion=1513598295417:2)
+  l (https://www.pinganwj.com/resources/js/jquery-1.8.3.min.js?resourceVersion=1513598295417:2)
+  fireWith (https://www.pinganwj.com/resources/js/jquery-1.8.3.min.js?resourceVersion=1513598295417:2)
+  ready (https://www.pinganwj.com/resources/js/jquery-1.8.3.min.js?resourceVersion=1513598295417:2)
+  A (https://www.pinganwj.com/resources/js/jquery-1.8.3.min.js?resourceVersion=1513598295417:2)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-12-19T04:33:52.096Z] Session [36fe3c60-e474-11e7-8bdf-4589805fa85a] - page.onError - msg: ReferenceError: Can't find variable: newsPageNo
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-12-19T04:33:52.096Z] Session [36fe3c60-e474-11e7-8bdf-4589805fa85a] - page.onError - stack:
+  (anonymous function) (https://www.pinganwj.com/resources/js/common/relatedNews.js?resourceVersion=1513598295417:2)
+  l (https://www.pinganwj.com/resources/js/jquery-1.8.3.min.js?resourceVersion=1513598295417:2)
+  fireWith (https://www.pinganwj.com/resources/js/jquery-1.8.3.min.js?resourceVersion=1513598295417:2)
+  ready (https://www.pinganwj.com/resources/js/jquery-1.8.3.min.js?resourceVersion=1513598295417:2)
+  A (https://www.pinganwj.com/resources/js/jquery-1.8.3.min.js?resourceVersion=1513598295417:2)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-12-19T04:34:37.709Z] Session [36fe3c60-e474-11e7-8bdf-4589805fa85a] - page.onError - msg: ReferenceError: Can't find variable: newsPageNo
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-12-19T04:34:37.709Z] Session [36fe3c60-e474-11e7-8bdf-4589805fa85a] - page.onError - stack:
+  (anonymous function) (https://www.pinganwj.com/resources/js/common/relatedNews.js?resourceVersion=1513598390590:2)
+  l (https://www.pinganwj.com/resources/js/jquery-1.8.3.min.js?resourceVersion=1513598390590:2)
+  fireWith (https://www.pinganwj.com/resources/js/jquery-1.8.3.min.js?resourceVersion=1513598390590:2)
+  ready (https://www.pinganwj.com/resources/js/jquery-1.8.3.min.js?resourceVersion=1513598390590:2)
+  A (https://www.pinganwj.com/resources/js/jquery-1.8.3.min.js?resourceVersion=1513598390590:2)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-12-19T04:35:24.062Z] Session [36fe3c60-e474-11e7-8bdf-4589805fa85a] - page.onError - msg: ReferenceError: Can't find variable: newsPageNo
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-12-19T04:35:24.062Z] Session [36fe3c60-e474-11e7-8bdf-4589805fa85a] - page.onError - stack:
+  (anonymous function) (https://www.pinganwj.com/resources/js/common/relatedNews.js?resourceVersion=1513598295417:2)
+  l (https://www.pinganwj.com/resources/js/jquery-1.8.3.min.js?resourceVersion=1513598295417:2)
+  fireWith (https://www.pinganwj.com/resources/js/jquery-1.8.3.min.js?resourceVersion=1513598295417:2)
+  ready (https://www.pinganwj.com/resources/js/jquery-1.8.3.min.js?resourceVersion=1513598295417:2)
+  A (https://www.pinganwj.com/resources/js/jquery-1.8.3.min.js?resourceVersion=1513598295417:2)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-12-19T04:36:10.632Z] Session [36fe3c60-e474-11e7-8bdf-4589805fa85a] - page.onError - msg: ReferenceError: Can't find variable: newsPageNo
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-12-19T04:36:10.632Z] Session [36fe3c60-e474-11e7-8bdf-4589805fa85a] - page.onError - stack:
+  (anonymous function) (https://www.pinganwj.com/resources/js/common/relatedNews.js?resourceVersion=1513598295417:2)
+  l (https://www.pinganwj.com/resources/js/jquery-1.8.3.min.js?resourceVersion=1513598295417:2)
+  fireWith (https://www.pinganwj.com/resources/js/jquery-1.8.3.min.js?resourceVersion=1513598295417:2)
+  ready (https://www.pinganwj.com/resources/js/jquery-1.8.3.min.js?resourceVersion=1513598295417:2)
+  A (https://www.pinganwj.com/resources/js/jquery-1.8.3.min.js?resourceVersion=1513598295417:2)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-12-19T04:36:52.813Z] Session [36fe3c60-e474-11e7-8bdf-4589805fa85a] - page.onError - msg: ReferenceError: Can't find variable: newsPageNo
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-12-19T04:36:52.813Z] Session [36fe3c60-e474-11e7-8bdf-4589805fa85a] - page.onError - stack:
+  (anonymous function) (https://www.pinganwj.com/resources/js/common/relatedNews.js?resourceVersion=1513598390590:2)
+  l (https://www.pinganwj.com/resources/js/jquery-1.8.3.min.js?resourceVersion=1513598390590:2)
+  fireWith (https://www.pinganwj.com/resources/js/jquery-1.8.3.min.js?resourceVersion=1513598390590:2)
+  ready (https://www.pinganwj.com/resources/js/jquery-1.8.3.min.js?resourceVersion=1513598390590:2)
+  A (https://www.pinganwj.com/resources/js/jquery-1.8.3.min.js?resourceVersion=1513598390590:2)
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2017-12-19T04:37:24.251Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2017-12-19T04:37:33.464Z] Session [36fe3c60-e474-11e7-8bdf-4589805fa85a] - page.onError - msg: ReferenceError: Can't find variable: newsPageNo
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-12-19T04:37:33.464Z] Session [36fe3c60-e474-11e7-8bdf-4589805fa85a] - page.onError - stack:
+  (anonymous function) (https://www.pinganwj.com/resources/js/common/relatedNews.js?resourceVersion=1513598390590:2)
+  l (https://www.pinganwj.com/resources/js/jquery-1.8.3.min.js?resourceVersion=1513598390590:2)
+  fireWith (https://www.pinganwj.com/resources/js/jquery-1.8.3.min.js?resourceVersion=1513598390590:2)
+  ready (https://www.pinganwj.com/resources/js/jquery-1.8.3.min.js?resourceVersion=1513598390590:2)
+  A (https://www.pinganwj.com/resources/js/jquery-1.8.3.min.js?resourceVersion=1513598390590:2)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-12-19T04:38:16.697Z] Session [36fe3c60-e474-11e7-8bdf-4589805fa85a] - page.onError - msg: ReferenceError: Can't find variable: newsPageNo
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-12-19T04:38:16.697Z] Session [36fe3c60-e474-11e7-8bdf-4589805fa85a] - page.onError - stack:
+  (anonymous function) (https://www.pinganwj.com/resources/js/common/relatedNews.js?resourceVersion=1513598295417:2)
+  l (https://www.pinganwj.com/resources/js/jquery-1.8.3.min.js?resourceVersion=1513598295417:2)
+  fireWith (https://www.pinganwj.com/resources/js/jquery-1.8.3.min.js?resourceVersion=1513598295417:2)
+  ready (https://www.pinganwj.com/resources/js/jquery-1.8.3.min.js?resourceVersion=1513598295417:2)
+  A (https://www.pinganwj.com/resources/js/jquery-1.8.3.min.js?resourceVersion=1513598295417:2)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-12-19T04:39:04.591Z] Session [36fe3c60-e474-11e7-8bdf-4589805fa85a] - page.onError - msg: ReferenceError: Can't find variable: newsPageNo
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-12-19T04:39:04.591Z] Session [36fe3c60-e474-11e7-8bdf-4589805fa85a] - page.onError - stack:
+  (anonymous function) (https://www.pinganwj.com/resources/js/common/relatedNews.js?resourceVersion=1513598390590:2)
+  l (https://www.pinganwj.com/resources/js/jquery-1.8.3.min.js?resourceVersion=1513598390590:2)
+  fireWith (https://www.pinganwj.com/resources/js/jquery-1.8.3.min.js?resourceVersion=1513598390590:2)
+  ready (https://www.pinganwj.com/resources/js/jquery-1.8.3.min.js?resourceVersion=1513598390590:2)
+  A (https://www.pinganwj.com/resources/js/jquery-1.8.3.min.js?resourceVersion=1513598390590:2)
 
   phantomjs://platform/console++.js:263 in error

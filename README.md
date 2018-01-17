@@ -5,7 +5,7 @@
 > python 3.6.3
 
 主要库：
-> requests 
+> requests <br>
 > re
 ## 爬取淘宝商品
 使用selenium爬取淘宝商品信息
@@ -13,10 +13,10 @@
 > python 3.6.3
 
 主要库：
-> pyquery 
-> re
-> selenium
-> mymongo
+> pyquery <br>
+> re<br>
+> selenium<br>
+> mymongo<br>
 
 ## 爬取万家医疗的疾病信息
 使用selenium爬取淘宝商品信息
@@ -24,7 +24,7 @@
 > python 3.6.3
 
 主要库：
-> pyquery 
-> re
-> selenium
-> mymongo
+> pyquery <br>
+> re<br>
+> selenium<br>
+> mymongo<br>

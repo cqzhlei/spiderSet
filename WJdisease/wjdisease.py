@@ -52,7 +52,7 @@ def pageUrl(i):
 
 def main():
     # 眼睛观测的 平安万家 只有680个疾病列表的网页
-    for i in range(1,  681):
+    for i in range(2,  681):
         print('正在爬取第'+str(i)+'页')
         searchlist(pageUrl(i))
 
